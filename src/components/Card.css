@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid pink;
+}
+
+img {
+    width: 210px;
+    height: 280px;
+    object-fit: cover;
+}
+
+img:hover {
+    cursor: pointer;
+}
